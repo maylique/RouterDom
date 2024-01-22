@@ -4,6 +4,13 @@
   padding: 2rem;
   text-align: center;
 }
+.active {
+  color: red;
+}
+
+.redtrue {
+  color: yellow;
+}
 
 .logo {
   height: 6em;
